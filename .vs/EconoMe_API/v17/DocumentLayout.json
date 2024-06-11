@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patri\\Documents\\C\u00F3digo\\EconoMe_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08A53203-9FA6-41BC-97AF-0938B19E5576}|EconoMe_API.csproj|c:\\users\\patri\\documents\\c\u00F3digo\\econome_api\\services\\iservices\\icontaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A53203-9FA6-41BC-97AF-0938B19E5576}|EconoMe_API.csproj|solutionrelative:services\\iservices\\icontaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A53203-9FA6-41BC-97AF-0938B19E5576}|EconoMe_API.csproj|c:\\users\\patri\\documents\\c\u00F3digo\\econome_api\\services\\contaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A53203-9FA6-41BC-97AF-0938B19E5576}|EconoMe_API.csproj|solutionrelative:services\\contaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A53203-9FA6-41BC-97AF-0938B19E5576}|EconoMe_API.csproj|c:\\users\\patri\\documents\\c\u00F3digo\\econome_api\\controllers\\contascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A53203-9FA6-41BC-97AF-0938B19E5576}|EconoMe_API.csproj|solutionrelative:controllers\\contascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A53203-9FA6-41BC-97AF-0938B19E5576}|EconoMe_API.csproj|c:\\users\\patri\\documents\\c\u00F3digo\\econome_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A53203-9FA6-41BC-97AF-0938B19E5576}|EconoMe_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A53203-9FA6-41BC-97AF-0938B19E5576}|EconoMe_API.csproj|c:\\users\\patri\\documents\\c\u00F3digo\\econome_api\\models\\dto\\contas\\contaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A53203-9FA6-41BC-97AF-0938B19E5576}|EconoMe_API.csproj|solutionrelative:models\\dto\\contas\\contaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IContaService.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Documents\\C\u00F3digo\\EconoMe_API\\Services\\IServices\\IContaService.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\IContaService.cs",
+              "ToolTip": "C:\\Users\\patri\\Documents\\C\u00F3digo\\EconoMe_API\\Services\\IServices\\IContaService.cs",
+              "RelativeToolTip": "Services\\IServices\\IContaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:53:22.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaService.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Documents\\C\u00F3digo\\EconoMe_API\\Services\\ContaService.cs",
+              "RelativeDocumentMoniker": "Services\\ContaService.cs",
+              "ToolTip": "C:\\Users\\patri\\Documents\\C\u00F3digo\\EconoMe_API\\Services\\ContaService.cs",
+              "RelativeToolTip": "Services\\ContaService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwDwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:53:19.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContaUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Documents\\C\u00F3digo\\EconoMe_API\\Models\\DTO\\Contas\\ContaUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\Contas\\ContaUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\patri\\Documents\\C\u00F3digo\\EconoMe_API\\Models\\DTO\\Contas\\ContaUpdateDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\Contas\\ContaUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:51:49.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Documents\\C\u00F3digo\\EconoMe_API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\patri\\Documents\\C\u00F3digo\\EconoMe_API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAADwv3EAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:03:51.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContasController.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Documents\\C\u00F3digo\\EconoMe_API\\Controllers\\ContasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContasController.cs",
+              "ToolTip": "C:\\Users\\patri\\Documents\\C\u00F3digo\\EconoMe_API\\Controllers\\ContasController.cs",
+              "RelativeToolTip": "Controllers\\ContasController.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAADwv9QAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:44:25.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
