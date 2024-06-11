@@ -66,3 +66,6 @@ secrets.json
 
 # Ignore other sensitive files
 secrets/
+
+# Specific path to ignore
+obj/Release/net6.0/PubTmp/Out/Secrets/serviceAccountKey.json
